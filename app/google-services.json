@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997283549083",
+    "project_id": "my-rva-application",
+    "storage_bucket": "my-rva-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997283549083:android:2a4283094af10ef186db3e",
+        "android_client_info": {
+          "package_name": "com.example.myrvaapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997283549083-q5tvgrl5hphjb5hg08mvci9i9a4n4lj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKSfp2grD6kKrSzWIixVvevrwsXUz1njk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997283549083-q5tvgrl5hphjb5hg08mvci9i9a4n4lj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
